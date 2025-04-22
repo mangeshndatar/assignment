@@ -1,0 +1,47 @@
+<div class="container py-4">
+  <div class="row" *ngIf="paginatedProducts && paginatedProducts.length">
+    <div class="col-md-4 mb-4" *ngFor="let product of paginatedProducts">
+      <div class="card h-100 shadow-sm" (click)="openModal(product)">
+        <img
+          [src]="product.picture"
+          class="card-img-top"
+          [alt]="product.picture"
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ product.title }}</h5>
+          <h5 class="card-title">{{ product.name }}</h5>
+          <p class="card-text">₹{{ product.price }}</p>
+          <p class="card-text">₹{{ product.rating }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="paginatedProducts && paginatedProducts.length == 0">
+    No Result Found , please try to change searched text !!!
+  </div>
+  <!-- Pagination -->
+  <nav>
+    <ul class="pagination justify-content-center">
+      <li class="page-item" [class.disabled]="currentPage === 1">
+        <a class="page-link" href="#" (click)="changePage(currentPage - 1)"
+          >Previous</a
+        >
+      </li>
+
+      <li
+        class="page-item"
+        *ngFor="let page of totalPagesArray"
+        [class.active]="page === currentPage"
+      >
+        <a class="page-link" (click)="changePage(page)">{{ page }}</a>
+      </li>
+
+      <li class="page-item" [class.disabled]="currentPage === totalPages">
+        <a class="page-link" (click)="changePage(currentPage + 1)">Next</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<app-notifications [message]="notificationMsg"></app-notifications>

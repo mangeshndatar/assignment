@@ -1,0 +1,11 @@
+<app-header (inputHandler)="searchBar($event)"></app-header>
+<div class="d-flex">
+  <app-filter></app-filter>
+
+  <!-- Right Side: Product List Placeholder -->
+  <div class="flex-grow-1 p-4">
+    <router-outlet></router-outlet>
+
+    <!-- Product cards go here -->
+  </div>
+</div>

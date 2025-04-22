@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Apple Earbuds - Networking",
+    "picture": "https://via.placeholder.com/300x200?text=Apple+Earbuds",
+    "name": "Apple Earbuds",
+    "price": 127377,
+    "customerRating": "4.6/5",
+    "rating": 4.6,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Networking"
+  },
+  {
+    "title": "Asus Mechanical Keyboard - Camera",
+    "picture": "https://via.placeholder.com/300x200?text=Asus+Mechanical+Keyboard",
+    "name": "Asus Mechanical Keyboard",
+    "price": 35734,
+    "customerRating": "3.3/5",
+    "rating": 3.3,
+    "longDescription": "Crystal-clear display with vibrant colors.",
+    "category": "Camera"
+  },
+  {
+    "title": "Samsung Headphones - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Samsung+Headphones",
+    "name": "Samsung Headphones",
+    "price": 141085,
+    "customerRating": "4.5/5",
+    "rating": 4.5,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Laptops"
+  },
+  {
+    "title": "HP Wireless Mouse - Camera",
+    "picture": "https://via.placeholder.com/300x200?text=HP+Wireless+Mouse",
+    "name": "HP Wireless Mouse",
+    "price": 128887,
+    "customerRating": "4.9/5",
+    "rating": 4.9,
+    "longDescription": "Smooth user experience with intuitive controls.",
+    "category": "Camera"
+  },
+  {
+    "title": "Asus Gaming Console - Accessories",
+    "picture": "https://via.placeholder.com/300x200?text=Asus+Gaming+Console",
+    "name": "Asus Gaming Console",
+    "price": 98290,
+    "customerRating": "3.5/5",
+    "rating": 3.5,
+    "longDescription": "Reliable and affordable, ideal for daily use.",
+    "category": "Accessories"
+  },
+  {
+    "title": "Realme Smartphone - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Realme+Smartphone",
+    "name": "Realme Smartphone",
+    "price": 116026,
+    "customerRating": "4.0/5",
+    "rating": 4.0,
+    "longDescription": "Smooth user experience with intuitive controls.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Dell Headphones - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=Dell+Headphones",
+    "name": "Dell Headphones",
+    "price": 34976,
+    "customerRating": "3.5/5",
+    "rating": 3.5,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "Realme Router - Networking",
+    "picture": "https://via.placeholder.com/300x200?text=Realme+Router",
+    "name": "Realme Router",
+    "price": 7753,
+    "customerRating": "4.3/5",
+    "rating": 4.3,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Networking"
+  },
+  {
+    "title": "Sony Webcam - Camera",
+    "picture": "https://via.placeholder.com/300x200?text=Sony+Webcam",
+    "name": "Sony Webcam",
+    "price": 43214,
+    "customerRating": "3.3/5",
+    "rating": 3.3,
+    "longDescription": "Designed for professionals and tech enthusiasts.",
+    "category": "Camera"
+  },
+  {
+    "title": "Apple Headphones - Audio",
+    "picture": "https://via.placeholder.com/300x200?text=Apple+Headphones",
+    "name": "Apple Headphones",
+    "price": 99055,
+    "customerRating": "4.1/5",
+    "rating": 4.1,
+    "longDescription": "Enhanced performance and lightning-fast speed.",
+    "category": "Audio"
+  },
+  {
+    "title": "Apple Earbuds - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=Apple+Earbuds",
+    "name": "Apple Earbuds",
+    "price": 32922,
+    "customerRating": "4.3/5",
+    "rating": 4.3,
+    "longDescription": "High performance with sleek design, built for modern users.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "OnePlus Monitor - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=OnePlus+Monitor",
+    "name": "OnePlus Monitor",
+    "price": 45612,
+    "customerRating": "3.6/5",
+    "rating": 3.6,
+    "longDescription": "Next-gen technology packed into a compact form.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Logitech Charger - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Logitech+Charger",
+    "name": "Logitech Charger",
+    "price": 28124,
+    "customerRating": "4.0/5",
+    "rating": 4.0,
+    "longDescription": "Designed for professionals and tech enthusiasts.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Sony Lens - Accessories",
+    "picture": "https://via.placeholder.com/300x200?text=Sony+Lens",
+    "name": "Sony Lens",
+    "price": 127388,
+    "customerRating": "3.1/5",
+    "rating": 3.1,
+    "longDescription": "Crystal-clear display with vibrant colors.",
+    "category": "Accessories"
+  },
+  {
+    "title": "Sony Earbuds - Networking",
+    "picture": "https://via.placeholder.com/300x200?text=Sony+Earbuds",
+    "name": "Sony Earbuds",
+    "price": 12876,
+    "customerRating": "3.5/5",
+    "rating": 3.5,
+    "longDescription": "High performance with sleek design, built for modern users.",
+    "category": "Networking"
+  },
+  {
+    "title": "Samsung Power Bank - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Samsung+Power+Bank",
+    "name": "Samsung Power Bank",
+    "price": 9797,
+    "customerRating": "3.1/5",
+    "rating": 3.1,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Dell Monitor - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Dell+Monitor",
+    "name": "Dell Monitor",
+    "price": 67521,
+    "customerRating": "4.5/5",
+    "rating": 4.5,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Laptops"
+  },
+  {
+    "title": "OnePlus Headphones - Television",
+    "picture": "https://via.placeholder.com/300x200?text=OnePlus+Headphones",
+    "name": "OnePlus Headphones",
+    "price": 53610,
+    "customerRating": "4.9/5",
+    "rating": 4.9,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Television"
+  },
+  {
+    "title": "Logitech Drone - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=Logitech+Drone",
+    "name": "Logitech Drone",
+    "price": 110858,
+    "customerRating": "3.6/5",
+    "rating": 3.6,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "Samsung Webcam - Television",
+    "picture": "https://via.placeholder.com/300x200?text=Samsung+Webcam",
+    "name": "Samsung Webcam",
+    "price": 6300,
+    "customerRating": "4.4/5",
+    "rating": 4.4,
+    "longDescription": "Next-gen technology packed into a compact form.",
+    "category": "Television"
+  },
+  {
+    "title": "Apple Charger - Television",
+    "picture": "https://via.placeholder.com/300x200?text=Apple+Charger",
+    "name": "Apple Charger",
+    "price": 7720,
+    "customerRating": "4.7/5",
+    "rating": 4.7,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Television"
+  },
+  {
+    "title": "Dell Webcam - Audio",
+    "picture": "https://via.placeholder.com/300x200?text=Dell+Webcam",
+    "name": "Dell Webcam",
+    "price": 51321,
+    "customerRating": "3.8/5",
+    "rating": 3.8,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Audio"
+  },
+  {
+    "title": "Logitech Mechanical Keyboard - Television",
+    "picture": "https://via.placeholder.com/300x200?text=Logitech+Mechanical+Keyboard",
+    "name": "Logitech Mechanical Keyboard",
+    "price": 65086,
+    "customerRating": "3.4/5",
+    "rating": 3.4,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Television"
+  },
+  {
+    "title": "Apple Camera - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=Apple+Camera",
+    "name": "Apple Camera",
+    "price": 43442,
+    "customerRating": "4.5/5",
+    "rating": 4.5,
+    "longDescription": "Reliable and affordable, ideal for daily use.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "HP Webcam - Audio",
+    "picture": "https://via.placeholder.com/300x200?text=HP+Webcam",
+    "name": "HP Webcam",
+    "price": 98609,
+    "customerRating": "4.4/5",
+    "rating": 4.4,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Audio"
+  },
+  {
+    "title": "Realme Mechanical Keyboard - Television",
+    "picture": "https://via.placeholder.com/300x200?text=Realme+Mechanical+Keyboard",
+    "name": "Realme Mechanical Keyboard",
+    "price": 39678,
+    "customerRating": "4.9/5",
+    "rating": 4.9,
+    "longDescription": "Designed for professionals and tech enthusiasts.",
+    "category": "Television"
+  },
+  {
+    "title": "Dell Power Bank - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Dell+Power+Bank",
+    "name": "Dell Power Bank",
+    "price": 129070,
+    "customerRating": "4.9/5",
+    "rating": 4.9,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Laptops"
+  },
+  {
+    "title": "Lenovo Drone - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Lenovo+Drone",
+    "name": "Lenovo Drone",
+    "price": 96546,
+    "customerRating": "3.3/5",
+    "rating": 3.3,
+    "longDescription": "Premium build quality with advanced features.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Asus Charger - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Asus+Charger",
+    "name": "Asus Charger",
+    "price": 85436,
+    "customerRating": "3.8/5",
+    "rating": 3.8,
+    "longDescription": "Designed for professionals and tech enthusiasts.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Sony Router - Accessories",
+    "picture": "https://via.placeholder.com/300x200?text=Sony+Router",
+    "name": "Sony Router",
+    "price": 50598,
+    "customerRating": "4.0/5",
+    "rating": 4.0,
+    "longDescription": "Smooth user experience with intuitive controls.",
+    "category": "Accessories"
+  },
+  {
+    "title": "Samsung Bluetooth Speaker - Gaming",
+    "picture": "https://via.placeholder.com/300x200?text=Samsung+Bluetooth+Speaker",
+    "name": "Samsung Bluetooth Speaker",
+    "price": 82469,
+    "customerRating": "3.8/5",
+    "rating": 3.8,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Gaming"
+  },
+  {
+    "title": "Realme Gaming Console - Audio",
+    "picture": "https://via.placeholder.com/300x200?text=Realme+Gaming+Console",
+    "name": "Realme Gaming Console",
+    "price": 57630,
+    "customerRating": "4.9/5",
+    "rating": 4.9,
+    "longDescription": "Crystal-clear display with vibrant colors.",
+    "category": "Audio"
+  },
+  {
+    "title": "OnePlus Drone - Camera",
+    "picture": "https://via.placeholder.com/300x200?text=OnePlus+Drone",
+    "name": "OnePlus Drone",
+    "price": 29578,
+    "customerRating": "3.3/5",
+    "rating": 3.3,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Camera"
+  },
+  {
+    "title": "Dell Power Bank - Television",
+    "picture": "https://via.placeholder.com/300x200?text=Dell+Power+Bank",
+    "name": "Dell Power Bank",
+    "price": 50530,
+    "customerRating": "3.2/5",
+    "rating": 3.2,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Television"
+  },
+  {
+    "title": "Asus Monitor - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Asus+Monitor",
+    "name": "Asus Monitor",
+    "price": 79923,
+    "customerRating": "4.4/5",
+    "rating": 4.4,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Laptops"
+  },
+  {
+    "title": "Realme Router - Audio",
+    "picture": "https://via.placeholder.com/300x200?text=Realme+Router",
+    "name": "Realme Router",
+    "price": 3639,
+    "customerRating": "4.4/5",
+    "rating": 4.4,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Audio"
+  },
+  {
+    "title": "Sony Monitor - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Sony+Monitor",
+    "name": "Sony Monitor",
+    "price": 101878,
+    "customerRating": "5.0/5",
+    "rating": 5.0,
+    "longDescription": "Perfect for both work and entertainment.",
+    "category": "Laptops"
+  },
+  {
+    "title": "HP Smart TV - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=HP+Smart+TV",
+    "name": "HP Smart TV",
+    "price": 145180,
+    "customerRating": "3.8/5",
+    "rating": 3.8,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "Lenovo Bluetooth Speaker - Mobiles",
+    "picture": "https://via.placeholder.com/300x200?text=Lenovo+Bluetooth+Speaker",
+    "name": "Lenovo Bluetooth Speaker",
+    "price": 102247,
+    "customerRating": "3.1/5",
+    "rating": 3.1,
+    "longDescription": "Next-gen technology packed into a compact form.",
+    "category": "Mobiles"
+  },
+  {
+    "title": "Logitech Bluetooth Speaker - Laptops",
+    "picture": "https://via.placeholder.com/300x200?text=Logitech+Bluetooth+Speaker",
+    "name": "Logitech Bluetooth Speaker",
+    "price": 66256,
+    "customerRating": "4.7/5",
+    "rating": 4.7,
+    "longDescription": "Compact, durable, and long-lasting battery life.",
+    "category": "Laptops"
+  }
+]

@@ -1,0 +1,949 @@
+{ "products" :
+[
+    {
+        "title": "Apple Earbuds - Networking",
+        "picture": "apple-airpod.jpg",
+        "name": "Apple Earbuds",
+        "price": 127377,
+        "customerRating": "4.6/5",
+        "rating": 4.6,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Networking",
+        "id": 1,
+        "reviews": [
+          {
+            "reviewer": "User10",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 3.0
+          },
+          {
+            "reviewer": "User11",
+            "comment": "Customer service was very helpful.",
+            "rating": 3.6
+          }
+        ]
+      },
+      {
+        "title": "Asus Mechanical Keyboard - Keyboard",
+        "picture": "asus-keyboard.png",
+        "name": "Asus Mechanical Keyboard",
+        "price": 35734,
+        "customerRating": "3.3/5",
+        "rating": 3.3,
+        "longDescription": "Crystal-clear display with vibrant colors.",
+        "category": "Laptops",
+        "id": 2,
+        "reviews": [
+          {
+            "reviewer": "User20",
+            "comment": "Great value for money!",
+            "rating": 4.5
+          },
+          {
+            "reviewer": "User21",
+            "comment": "Fast delivery and well packed.",
+            "rating": 3.7
+          },
+          {
+            "reviewer": "User22",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "title": "Samsung Headphones - Laptops",
+        "picture": "samsung-headphone.png",
+        "name": "Samsung Headphones",
+        "price": 141085,
+        "customerRating": "4.5/5",
+        "rating": 4.5,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Laptops",
+        "id": 3,
+        "reviews": [
+          {
+            "reviewer": "User30",
+            "comment": "Battery life could be better.",
+            "rating": 4.1
+          }
+        ]
+      },
+      {
+        "title": "HP Wireless - Camera",
+        "picture": "sony-camera.jpg",
+        "name": "HP Wireless Mouse",
+        "price": 128887,
+        "customerRating": "4.9/5",
+        "rating": 4.9,
+        "longDescription": "Smooth user experience with intuitive controls.",
+        "category": "Camera",
+        "id": 4,
+        "reviews": [
+          {
+            "reviewer": "User40",
+            "comment": "Customer service was very helpful.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "title": "Asus Gaming Console - Accessories",
+        "picture": "asus-gaming.png",
+        "name": "Asus Gaming Console",
+        "price": 98290,
+        "customerRating": "3.5/5",
+        "rating": 3.5,
+        "longDescription": "Reliable and affordable, ideal for daily use.",
+        "category": "Accessories",
+        "id": 5,
+        "reviews": [
+          {
+            "reviewer": "User50",
+            "comment": "Excellent build quality.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "title": "Realme Smartphone - Gaming",
+        "picture": "realme.png",
+        "name": "Realme Smartphone",
+        "price": 116026,
+        "customerRating": "4.0/5",
+        "rating": 4.0,
+        "longDescription": "Smooth user experience with intuitive controls.",
+        "category": "Gaming",
+        "id": 6,
+        "reviews": [
+          {
+            "reviewer": "User60",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 3.7
+          },
+          {
+            "reviewer": "User61",
+            "comment": "Would buy again.",
+            "rating": 3.8
+          }
+        ]
+      },
+      {
+        "title": "Dell Headphones - Mobiles",
+        "picture": "samsung-headphone.png",
+        "name": "Dell Headphones",
+        "price": 34976,
+        "customerRating": "3.5/5",
+        "rating": 3.5,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Mobiles",
+        "id": 7,
+        "reviews": [
+          {
+            "reviewer": "User70",
+            "comment": "Customer service was very helpful.",
+            "rating": 5.0
+          }
+        ]
+      },
+      {
+        "title": "Realme Router - Networking",
+        "picture": "router.png",
+        "name": "Realme Router",
+        "price": 7753,
+        "customerRating": "4.3/5",
+        "rating": 4.3,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Networking",
+        "id": 8,
+        "reviews": [
+          {
+            "reviewer": "User80",
+            "comment": "Amazing features at this price point.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "title": "Sony Webcam - Camera",
+        "picture": "sony-camera.jpg",
+        "name": "Sony Webcam",
+        "price": 43214,
+        "customerRating": "3.3/5",
+        "rating": 3.3,
+        "longDescription": "Designed for professionals and tech enthusiasts.",
+        "category": "Camera",
+        "id": 9,
+        "reviews": [
+          {
+            "reviewer": "User90",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 3.7
+          },
+          {
+            "reviewer": "User91",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 5.0
+          },
+          {
+            "reviewer": "User92",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 3.3
+          }
+        ]
+      },
+      {
+        "title": "Apple Headphones - Audio",
+        "picture": "apple-airpod.jpg",
+        "name": "Apple Headphones",
+        "price": 99055,
+        "customerRating": "4.1/5",
+        "rating": 4.1,
+        "longDescription": "Enhanced performance and lightning-fast speed.",
+        "category": "Audio",
+        "id": 10,
+        "reviews": [
+          {
+            "reviewer": "User100",
+            "comment": "Great value for money!",
+            "rating": 4.9
+          },
+          {
+            "reviewer": "User101",
+            "comment": "Battery life could be better.",
+            "rating": 3.0
+          }
+        ]
+      },
+      {
+        "title": "Apple Earbuds - Mobiles",
+        "picture": "apple-airpod.jpg",
+        "name": "Apple Earbuds",
+        "price": 32922,
+        "customerRating": "4.3/5",
+        "rating": 4.3,
+        "longDescription": "High performance with sleek design, built for modern users.",
+        "category": "Mobiles",
+        "id": 11,
+        "reviews": [
+          {
+            "reviewer": "User110",
+            "comment": "Great value for money!",
+            "rating": 4.8
+          },
+          {
+            "reviewer": "User111",
+            "comment": "Fast delivery and well packed.",
+            "rating": 4.0
+          },
+          {
+            "reviewer": "User112",
+            "comment": "Battery life could be better.",
+            "rating": 3.7
+          }
+        ]
+      },
+      {
+        "title": "OnePlus Monitor - Gaming",
+        "picture": "realme.png",
+        "name": "OnePlus Monitor",
+        "price": 45612,
+        "customerRating": "3.6/5",
+        "rating": 3.6,
+        "longDescription": "Next-gen technology packed into a compact form.",
+        "category": "Gaming",
+        "id": 12,
+        "reviews": [
+          {
+            "reviewer": "User120",
+            "comment": "Customer service was very helpful.",
+            "rating": 4.5
+          },
+          {
+            "reviewer": "User121",
+            "comment": "Excellent build quality.",
+            "rating": 3.5
+          },
+          {
+            "reviewer": "User122",
+            "comment": "Amazing features at this price point.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "title": "Logitech Charger - Gaming",
+        "picture": "asus-keyboard.png",
+        "name": "Logitech Charger",
+        "price": 28124,
+        "customerRating": "4.0/5",
+        "rating": 4.0,
+        "longDescription": "Designed for professionals and tech enthusiasts.",
+        "category": "Gaming",
+        "id": 13,
+        "reviews": [
+          {
+            "reviewer": "User130",
+            "comment": "Excellent build quality.",
+            "rating": 4.8
+          },
+          {
+            "reviewer": "User131",
+            "comment": "Would buy again.",
+            "rating": 4.0
+          }
+        ]
+      },
+      {
+        "title": "Sony Lens - Accessories",
+        "picture": "placeholder.png",
+        "name": "Sony Lens",
+        "price": 127388,
+        "customerRating": "3.1/5",
+        "rating": 3.1,
+        "longDescription": "Crystal-clear display with vibrant colors.",
+        "category": "Accessories",
+        "id": 14,
+        "reviews": [
+          {
+            "reviewer": "User140",
+            "comment": "Would buy again.",
+            "rating": 3.1
+          },
+          {
+            "reviewer": "User141",
+            "comment": "Excellent build quality.",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "title": "Sony Earbuds - Networking",
+        "picture": "placeholder.png",
+        "name": "Sony Earbuds",
+        "price": 12876,
+        "customerRating": "3.5/5",
+        "rating": 3.5,
+        "longDescription": "High performance with sleek design, built for modern users.",
+        "category": "Networking",
+        "id": 15,
+        "reviews": [
+          {
+            "reviewer": "User150",
+            "comment": "Battery life could be better.",
+            "rating": 4.3
+          },
+          {
+            "reviewer": "User151",
+            "comment": "Battery life could be better.",
+            "rating": 5.0
+          }
+        ]
+      },
+      {
+        "title": "Samsung Power Bank - Gaming",
+        "picture": "placeholder.png",
+        "name": "Samsung Power Bank",
+        "price": 9797,
+        "customerRating": "3.1/5",
+        "rating": 3.1,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Gaming",
+        "id": 16,
+        "reviews": [
+          {
+            "reviewer": "User160",
+            "comment": "Excellent build quality.",
+            "rating": 4.2
+          },
+          {
+            "reviewer": "User161",
+            "comment": "Fast delivery and well packed.",
+            "rating": 3.7
+          },
+          {
+            "reviewer": "User162",
+            "comment": "Amazing features at this price point.",
+            "rating": 3.2
+          }
+        ]
+      },
+      {
+        "title": "Dell Monitor - Laptops",
+        "picture": "placeholder.png",
+        "name": "Dell Monitor",
+        "price": 67521,
+        "customerRating": "4.5/5",
+        "rating": 4.5,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Laptops",
+        "id": 17,
+        "reviews": [
+          {
+            "reviewer": "User170",
+            "comment": "Battery life could be better.",
+            "rating": 5.0
+          }
+        ]
+      },
+      {
+        "title": "OnePlus Headphones - Television",
+        "picture": "placeholder.png",
+        "name": "OnePlus Headphones",
+        "price": 53610,
+        "customerRating": "4.9/5",
+        "rating": 4.9,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Television",
+        "id": 18,
+        "reviews": [
+          {
+            "reviewer": "User180",
+            "comment": "Battery life could be better.",
+            "rating": 3.5
+          }
+        ]
+      },
+      {
+        "title": "Logitech Drone - Mobiles",
+        "picture": "placeholder.png",
+        "name": "Logitech Drone",
+        "price": 110858,
+        "customerRating": "3.6/5",
+        "rating": 3.6,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Mobiles",
+        "id": 19,
+        "reviews": [
+          {
+            "reviewer": "User190",
+            "comment": "Not worth the price.",
+            "rating": 4.8
+          },
+          {
+            "reviewer": "User191",
+            "comment": "Customer service was very helpful.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "title": "Samsung Webcam - Television",
+        "picture": "placeholder.png",
+        "name": "Samsung Webcam",
+        "price": 6300,
+        "customerRating": "4.4/5",
+        "rating": 4.4,
+        "longDescription": "Next-gen technology packed into a compact form.",
+        "category": "Television",
+        "id": 20,
+        "reviews": [
+          {
+            "reviewer": "User200",
+            "comment": "Would buy again.",
+            "rating": 3.6
+          },
+          {
+            "reviewer": "User201",
+            "comment": "Excellent build quality.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "title": "Apple Charger - Television",
+        "picture": "placeholder.png",
+        "name": "Apple Charger",
+        "price": 7720,
+        "customerRating": "4.7/5",
+        "rating": 4.7,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Television",
+        "id": 21,
+        "reviews": [
+          {
+            "reviewer": "User210",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 3.8
+          },
+          {
+            "reviewer": "User211",
+            "comment": "Battery life could be better.",
+            "rating": 3.3
+          },
+          {
+            "reviewer": "User212",
+            "comment": "Great value for money!",
+            "rating": 4.3
+          }
+        ]
+      },
+      {
+        "title": "Dell Webcam - Audio",
+        "picture": "placeholder.png",
+        "name": "Dell Webcam",
+        "price": 51321,
+        "customerRating": "3.8/5",
+        "rating": 3.8,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Audio",
+        "id": 22,
+        "reviews": [
+          {
+            "reviewer": "User220",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.7
+          },
+          {
+            "reviewer": "User221",
+            "comment": "Fast delivery and well packed.",
+            "rating": 4.6
+          },
+          {
+            "reviewer": "User222",
+            "comment": "Battery life could be better.",
+            "rating": 4.0
+          }
+        ]
+      },
+      {
+        "title": "Logitech Mechanical Keyboard - Television",
+        "picture": "placeholder.png",
+        "name": "Logitech Mechanical Keyboard",
+        "price": 65086,
+        "customerRating": "3.4/5",
+        "rating": 3.4,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Television",
+        "id": 23,
+        "reviews": [
+          {
+            "reviewer": "User230",
+            "comment": "Great value for money!",
+            "rating": 4.6
+          },
+          {
+            "reviewer": "User231",
+            "comment": "Would buy again.",
+            "rating": 4.1
+          },
+          {
+            "reviewer": "User232",
+            "comment": "Great value for money!",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "title": "Apple Camera - Mobiles",
+        "picture": "placeholder.png",
+        "name": "Apple Camera",
+        "price": 43442,
+        "customerRating": "4.5/5",
+        "rating": 4.5,
+        "longDescription": "Reliable and affordable, ideal for daily use.",
+        "category": "Mobiles",
+        "id": 24,
+        "reviews": [
+          {
+            "reviewer": "User240",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.4
+          },
+          {
+            "reviewer": "User241",
+            "comment": "Would buy again.",
+            "rating": 3.2
+          },
+          {
+            "reviewer": "User242",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.0
+          }
+        ]
+      },
+      {
+        "title": "HP Webcam - Audio",
+        "picture": "placeholder.png",
+        "name": "HP Webcam",
+        "price": 98609,
+        "customerRating": "4.4/5",
+        "rating": 4.4,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Audio",
+        "id": 25,
+        "reviews": [
+          {
+            "reviewer": "User250",
+            "comment": "The product exceeded my expectations.",
+            "rating": 4.0
+          }
+        ]
+      },
+      {
+        "title": "Realme Mechanical Keyboard - Television",
+        "picture": "https://via.placeholder.com/300x200?text=Realme+Mechanical+Keyboard",
+        "name": "Realme Mechanical Keyboard",
+        "price": 39678,
+        "customerRating": "4.9/5",
+        "rating": 4.9,
+        "longDescription": "Designed for professionals and tech enthusiasts.",
+        "category": "Television",
+        "id": 26,
+        "reviews": [
+          {
+            "reviewer": "User260",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.3
+          },
+          {
+            "reviewer": "User261",
+            "comment": "Amazing features at this price point.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "title": "Dell Power Bank - Laptops",
+        "picture": "asus-keyboard.png",
+        "name": "Dell Power Bank",
+        "price": 129070,
+        "customerRating": "4.9/5",
+        "rating": 4.9,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Laptops",
+        "id": 27,
+        "reviews": [
+          {
+            "reviewer": "User270",
+            "comment": "Great value for money!",
+            "rating": 3.5
+          },
+          {
+            "reviewer": "User271",
+            "comment": "Excellent build quality.",
+            "rating": 3.7
+          },
+          {
+            "reviewer": "User272",
+            "comment": "Excellent build quality.",
+            "rating": 3.2
+          }
+        ]
+      },
+      {
+        "title": "Lenovo Drone - Gaming",
+        "picture": "placeholder.png",
+        "name": "Lenovo Drone",
+        "price": 96546,
+        "customerRating": "3.3/5",
+        "rating": 3.3,
+        "longDescription": "Premium build quality with advanced features.",
+        "category": "Gaming",
+        "id": 28,
+        "reviews": [
+          {
+            "reviewer": "User280",
+            "comment": "Battery life could be better.",
+            "rating": 4.4
+          },
+          {
+            "reviewer": "User281",
+            "comment": "The product exceeded my expectations.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "title": "Asus Charger - Gaming",
+        "picture": "placeholder.png",
+        "name": "Asus Charger",
+        "price": 85436,
+        "customerRating": "3.8/5",
+        "rating": 3.8,
+        "longDescription": "Designed for professionals and tech enthusiasts.",
+        "category": "Gaming",
+        "id": 29,
+        "reviews": [
+          {
+            "reviewer": "User290",
+            "comment": "Works as expected. Highly recommend.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "title": "Sony Router - Accessories",
+        "picture": "placeholder.png",
+        "name": "Sony Router",
+        "price": 50598,
+        "customerRating": "4.0/5",
+        "rating": 4.0,
+        "longDescription": "Smooth user experience with intuitive controls.",
+        "category": "Accessories",
+        "id": 30,
+        "reviews": [
+          {
+            "reviewer": "User300",
+            "comment": "Not worth the price.",
+            "rating": 3.1
+          },
+          {
+            "reviewer": "User301",
+            "comment": "Would buy again.",
+            "rating": 4.6
+          },
+          {
+            "reviewer": "User302",
+            "comment": "Great value for money!",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "title": "Samsung Bluetooth Speaker - Gaming",
+        "picture": "placeholder.png",
+        "name": "Samsung Bluetooth Speaker",
+        "price": 82469,
+        "customerRating": "3.8/5",
+        "rating": 3.8,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Gaming",
+        "id": 31,
+        "reviews": [
+          {
+            "reviewer": "User310",
+            "comment": "Battery life could be better.",
+            "rating": 4.7
+          },
+          {
+            "reviewer": "User311",
+            "comment": "Amazing features at this price point.",
+            "rating": 3.3
+          },
+          {
+            "reviewer": "User312",
+            "comment": "Customer service was very helpful.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "title": "Realme Gaming Console - Audio",
+        "picture": "placeholder.png",
+        "name": "Realme Gaming Console",
+        "price": 57630,
+        "customerRating": "4.9/5",
+        "rating": 4.9,
+        "longDescription": "Crystal-clear display with vibrant colors.",
+        "category": "Audio",
+        "id": 32,
+        "reviews": [
+          {
+            "reviewer": "User320",
+            "comment": "Battery life could be better.",
+            "rating": 4.2
+          },
+          {
+            "reviewer": "User321",
+            "comment": "Not worth the price.",
+            "rating": 4.2
+          },
+          {
+            "reviewer": "User322",
+            "comment": "Great value for money!",
+            "rating": 3.0
+          }
+        ]
+      },
+      {
+        "title": "OnePlus Drone - Camera",
+        "picture": "sony-camera.jpg",
+        "name": "OnePlus Drone",
+        "price": 29578,
+        "customerRating": "3.3/5",
+        "rating": 3.3,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Camera",
+        "id": 33,
+        "reviews": [
+          {
+            "reviewer": "User330",
+            "comment": "Amazing features at this price point.",
+            "rating": 4.0
+          },
+          {
+            "reviewer": "User331",
+            "comment": "The product exceeded my expectations.",
+            "rating": 4.9
+          },
+          {
+            "reviewer": "User332",
+            "comment": "Customer service was very helpful.",
+            "rating": 3.6
+          }
+        ]
+      },
+      {
+        "title": "Dell Power Bank - Television",
+        "picture": "placeholder.png",
+        "name": "Dell Power Bank",
+        "price": 50530,
+        "customerRating": "3.2/5",
+        "rating": 3.2,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Television",
+        "id": 34,
+        "reviews": [
+          {
+            "reviewer": "User340",
+            "comment": "Would buy again.",
+            "rating": 3.5
+          }
+        ]
+      },
+      {
+        "title": "Asus Monitor - Laptops",
+        "picture": "asus-keyboard.png",
+        "name": "Asus Monitor",
+        "price": 79923,
+        "customerRating": "4.4/5",
+        "rating": 4.4,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Laptops",
+        "id": 35,
+        "reviews": [
+          {
+            "reviewer": "User350",
+            "comment": "Excellent build quality.",
+            "rating": 3.2
+          },
+          {
+            "reviewer": "User351",
+            "comment": "Fast delivery and well packed.",
+            "rating": 4.5
+          },
+          {
+            "reviewer": "User352",
+            "comment": "Battery life could be better.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "title": "Realme Router - Audio",
+        "picture": "placeholder.png",
+        "name": "Realme Router",
+        "price": 3639,
+        "customerRating": "4.4/5",
+        "rating": 4.4,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Audio",
+        "id": 36,
+        "reviews": [
+          {
+            "reviewer": "User360",
+            "comment": "The product exceeded my expectations.",
+            "rating": 4.1
+          }
+        ]
+      },
+      {
+        "title": "Sony Monitor - Laptops",
+        "picture": "asus-keyboard.png",
+        "name": "Sony Monitor",
+        "price": 101878,
+        "customerRating": "5.0/5",
+        "rating": 5.0,
+        "longDescription": "Perfect for both work and entertainment.",
+        "category": "Laptops",
+        "id": 37,
+        "reviews": [
+          {
+            "reviewer": "User370",
+            "comment": "Great value for money!",
+            "rating": 3.8
+          },
+          {
+            "reviewer": "User371",
+            "comment": "The product exceeded my expectations.",
+            "rating": 3.3
+          }
+        ]
+      },
+      {
+        "title": "HP Smart TV - Mobiles",
+        "picture": "placeholder.png",
+        "name": "HP Smart TV",
+        "price": 145180,
+        "customerRating": "3.8/5",
+        "rating": 3.8,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Mobiles",
+        "id": 38,
+        "reviews": [
+          {
+            "reviewer": "User380",
+            "comment": "Fast delivery and well packed.",
+            "rating": 4.5
+          },
+          {
+            "reviewer": "User381",
+            "comment": "Excellent build quality.",
+            "rating": 3.2
+          },
+          {
+            "reviewer": "User382",
+            "comment": "Customer service was very helpful.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "title": "Lenovo Bluetooth Speaker - Mobiles",
+        "picture": "placeholder.png",
+        "name": "Lenovo Bluetooth Speaker",
+        "price": 102247,
+        "customerRating": "3.1/5",
+        "rating": 3.1,
+        "longDescription": "Next-gen technology packed into a compact form.",
+        "category": "Mobiles",
+        "id": 39,
+        "reviews": [
+          {
+            "reviewer": "User390",
+            "comment": "The product exceeded my expectations.",
+            "rating": 4.6
+          },
+          {
+            "reviewer": "User391",
+            "comment": "Excellent build quality.",
+            "rating": 4.3
+          }
+        ]
+      },
+      {
+        "title": "Logitech Bluetooth Speaker - Laptops",
+        "picture": "asus-keyboard.png",
+        "name": "Logitech Bluetooth Speaker",
+        "price": 66256,
+        "customerRating": "4.7/5",
+        "rating": 4.7,
+        "longDescription": "Compact, durable, and long-lasting battery life.",
+        "category": "Laptops",
+        "id": 40,
+        "reviews": [
+          {
+            "reviewer": "User400",
+            "comment": "Amazing features at this price point.",
+            "rating": 3.1
+          },
+          {
+            "reviewer": "User401",
+            "comment": "Excellent build quality.",
+            "rating": 3.2
+          }
+        ]
+      }
+  ]
+}

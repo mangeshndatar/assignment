@@ -1,0 +1,38 @@
+<div *ngIf="product" class="card h-100 shadow-sm">
+  <img [src]="product.picture" class="card-img-top" height="150px" />
+  <div class="card-body">
+    <h5 class="card-title">{{ product.title }}</h5>
+    <h5 class="card-title">{{ product.name }}</h5>
+    <p class="card-text">₹{{ product.price }}</p>
+    <p class="card-text">{{ product.rating }}</p>
+    <p class="card-text">{{ product.longDescription }}</p>
+    Reviews
+    <div
+      class="d-flex"
+      style="
+        box-shadow: black 0px 0px 4px 0px;
+        margin-bottom: 12px;
+        margin-top: 12px;
+      "
+    >
+      <div *ngFor="let r of product.reviews" class="small-card-body">
+        <h6 class="small-card-title">{{ r.reviewer }}</h6>
+        <small class="small-card-content">{{ r.rating }}</small>
+        <br />
+        <small class="small-card-content">{{ r.comment }}</small>
+      </div>
+    </div>
+    <button class="btn btn-danger" (click)="closeModal()">
+      Close
+      <i class="bi bi-x-circle"></i>
+    </button>
+    <button
+      *ngIf="router.url == '/home'"
+      (click)="addToCarts(product)"
+      class="btn btn-outline-primary position-relative"
+    >
+      Add To Cart
+      <i class="bi bi-cart-fill"></i>
+    </button>
+  </div>
+</div>

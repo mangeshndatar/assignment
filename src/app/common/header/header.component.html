@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light px-4">
+  <!-- Company Name -->
+  <a class="navbar-brand fw-bold text-primary" [routerLink]="'/'"
+    >ElectroShop</a
+  >
+
+  <!-- Filters Center -->
+  <div class="mx-auto d-flex gap-3 align-items-center">
+    <!-- TODO : Search component -->
+    <input
+      type="text"
+      class="form-control form-control-md"
+      placeholder="Search products"
+      [(ngModel)]="inputText"
+    />
+    <button
+      class="btn btn-outline-primary position-relative"
+      (click)="searchHandler(inputText)"
+    >
+      <i class="bi bi-search"></i>
+    </button>
+  </div>
+
+  <!-- Shopping Cart Right -->
+  <div class="ms-auto" [routerLink]="'/view-cart'">
+    <button class="btn btn-outline-primary position-relative">
+      <i class="bi bi-cart-fill"></i>
+      <span
+        class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+      >
+        {{ count }}
+        <span class="visually-hidden">cart items</span>
+      </span>
+    </button>
+  </div>
+</nav>
