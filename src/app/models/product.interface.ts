@@ -1,4 +1,4 @@
-import { ReviewsI } from './reviews.interface';
+import { ReviewsI } from "./reviews.interface";
 
 export interface ProductI {
   id: number;

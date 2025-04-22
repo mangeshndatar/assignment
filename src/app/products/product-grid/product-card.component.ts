@@ -5,16 +5,16 @@ import {
   OnChanges,
   OnInit,
   SimpleChanges,
-} from '@angular/core';
-import { ProductI } from '../../models/product.interface';
-import { ProductService } from '../../product.service';
-import { MatDialog } from '@angular/material/dialog';
-import { ProductModalComponent } from '../product-modal/product-modal.component';
+} from "@angular/core";
+import { ProductI } from "../../models/product.interface";
+import { ProductService } from "../../product.service";
+import { MatDialog } from "@angular/material/dialog";
+import { ProductModalComponent } from "../product-modal/product-modal.component";
 @Component({
-  selector: 'app-product-card',
+  selector: "app-product-card",
   standalone: false,
-  templateUrl: './product-card.component.html',
-  styleUrl: './product-card.component.scss',
+  templateUrl: "./product-card.component.html",
+  styleUrl: "./product-card.component.scss",
 })
 export class ProductCardComponent implements OnChanges {
   readonly dialog = inject(MatDialog);
@@ -27,7 +27,7 @@ export class ProductCardComponent implements OnChanges {
   constructor(private productService: ProductService) {}
 
   ngOnChanges(changes: SimpleChanges): void {
-    console.log('products', this.products);
+    console.log("products", this.products);
     this.updatePaginatedProducts();
   }
   get totalPages() {
@@ -55,10 +55,9 @@ export class ProductCardComponent implements OnChanges {
     const dialogRef = this.dialog.open(ProductModalComponent, {
       data: product,
       disableClose: true,
-      width: '400px',
+      width: "400px",
     });
     dialogRef.afterClosed().subscribe((result) => {
-      console.log('The dialog was closed');
       if (result !== undefined) {
         console.log(result);
         this.notificationMsg = result;
